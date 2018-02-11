@@ -1,2 +1,2 @@
 # jmusbands
-Java API Rest music bands
+Java Project with mocroservices architecture
