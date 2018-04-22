@@ -1,2 +1,2 @@
-# Musbands
-Java Project with mocroservices architecture
+# Musbands (Music Bands)
+API Java microservices
