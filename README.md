@@ -1,2 +1,2 @@
 # Musbands (Music Bands)
-API Java microservices
+API Rest Java microservices
